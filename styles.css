@@ -1,0 +1,26 @@
+body {
+  font-family: "Noto Sans", "Helvetica";
+}
+h1 {
+  color: red;
+}
+nav a {
+  color: #367c2b;
+  text-decoration: none;
+}
+table, td, tr, tbody, thead, section, article, aside, header, footer, nav, figure, figcaption, main {
+  border: solid;
+}
+ul li {
+  display: inline;
+  list-style: none;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+footer {
+  text-align: center;
+}
+img {
+  width: 200px;
+  height: auto;
+}
